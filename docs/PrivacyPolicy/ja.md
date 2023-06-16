@@ -67,6 +67,6 @@
 住所： 福岡県福岡市博多区博多駅南1-10-4<br>
 社名： 株式会社アイ・メディック<br>
 担当部署： IT部<br>
-Eメールアドレス： i.medic.k.k@gmail.com
+Eメールアドレス： i_medic_it@icloud.com
 
 以上
